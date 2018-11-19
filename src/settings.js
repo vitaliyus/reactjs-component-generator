@@ -10,6 +10,7 @@ const defaultSettings = {
   storeDestination: './src/store/',
   componentDestination: './src/components/',
   tscomponentDestination: './components/',
+  tsstatelesscomponentDestination: './components/',
   pageDestination: './src/pages/',
   tspageDestination: './pages/',
   templatePath: ''

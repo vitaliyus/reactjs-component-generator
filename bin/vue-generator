@@ -12,6 +12,7 @@ program
   .command('init', 'Create a local settings file (.reactgenerator)')
   .command('component', 'Create a component')
   .command('tscomponent', 'Create a tscomponent')
+  .command('tsstatelesscomponent', 'Create a stateless tscomponent')
   .command('page', 'Create a page')
   .command('tspage', 'Create a tspage')
   .command('store', 'Create a store module')
